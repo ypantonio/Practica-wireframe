@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    width: 400px;
+    height: auto;
+    padding: 35px;
+    margin: auto;
+    
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    
+}
+.caja{
+    background-color: #0a1931   ;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 10px;
+    width: 105px;
+    height: 105px;
+}
+.color1{
+    background-color:#4ca1a3;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 10px;
+    width: 105px;
+    height: 105px;
+}
