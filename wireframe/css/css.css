@@ -1,0 +1,51 @@
+/*************************************
+Todas las unidades se pasaron a REM
+**************************************/
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.contenedor{
+    font-size: 10px;
+   width: 23.438rem;
+    height: auto;
+    padding: 2.188rem;
+    
+    display: flex;
+    flex-direction: column;
+}
+.cuadro1{
+   background-color: coral;
+    width: 11.25rem;
+    height: 14.375rem;
+    border-radius: 0.625rem;
+}
+.cuadro2{
+    background-color: coral;
+    width: 11.25rem;
+    height: 6.25rem;
+    border-radius: 0.625rem;
+    
+    margin-top: 2.375rem;
+    align-self: flex-end;
+}
+.cuadro3{
+    background-color: coral;
+    width: 10.625rem;
+    height: 11.25rem;
+    border-radius: 0.625rem;
+    
+    margin-top: 2.375rem;
+    align-self: center;
+}
+.cuadro4{
+    background-color: coral;
+    width: 11.25rem;
+    height: 2.688rem;
+    border-radius: 0.625rem;
+    
+    margin-top: 2.375rem;
+    align-self: flex-end;
+}
