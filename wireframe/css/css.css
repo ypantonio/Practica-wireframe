@@ -4,33 +4,34 @@
     box-sizing: border-box;
 }
 .contenedor{
-   width: 375px;
+   /* font-size:10px; Unidad en rem*/
+   width: 23.438em;
     height: auto;
-    padding: 35px;
+    padding: 2.188em;
     
     display: flex;
     flex-direction: column;
 }
 .cuadro1{
    background-color: coral;
-    width: 180px;
-    height: 230px;
-    border-radius: 10px;
+    width: 11.25em;
+    height: 14.375em;
+    border-radius: 0.625em;
 }
 .cuadro2{
     background-color: coral;
-    width: 180px;
-    height: 100px;
-    border-radius: 10px;
+    width: 11.25em;
+    height: 6.25em;
+    border-radius: 0.625em;
     
-    margin-top: 38px;
+    margin-top: 2.375em;
     align-self: flex-end;
 }
 .cuadro3{
     background-color: coral;
-    width: 170px;
-    height: 180px;
-    border-radius: 10px;
+    width: 10.625em;
+    height: 11.25em;
+    border-radius: 0.625em;
     
     margin-top: 38px;
     align-self: center;
