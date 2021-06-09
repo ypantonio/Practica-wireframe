@@ -40,7 +40,7 @@
     background-color: coral;
     width: 180px;
     height: 43px;
-    border-radius: 10px;
+    border-radius: 0.625rem;
     
     margin-top: 38px;
     align-self: flex-end;
